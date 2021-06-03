@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 :computer: I'm Front-End Developer!
 :house_with_garden: I’m from Brazil.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renancaldasdev)](https://github.com/renancaldasdev)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renancaldasdev/)](https://www.linkedin.com/in/renancaldasdev/)[![Gmail_badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renancaldas3@gmail.com)](mailto:renancaldas3@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/renancaldasdev)](https://github.com/renancaldasdev)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renancaldasdev/)](https://www.linkedin.com/in/renancaldasdev/)
+
+[![Gmail_badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:renancaldas3@gmail.com)](mailto:renancaldas3@gmail.com)
 
 
 
