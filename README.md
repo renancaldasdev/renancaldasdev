@@ -16,7 +16,6 @@ Frontend    Vue 3 · TypeScript · Inertia.js · TailwindCSS
 Infra       Docker · AWS · GCP · Nginx · Linux
 Práticas    Service/Repository · DDD · PHPStan · Pest · CI/CD
 ```
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-renancaldasdev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/renancaldasdev)
