@@ -1,8 +1,6 @@
 # Renan Caldas
 
-**Full Stack Developer** · PHP & Laravel · Vue 3 & TypeScript · Fintech & Pagamentos
-
-Atuo no desenvolvimento de plataformas financeiras — sistemas de gestão de carteiras de cobrança, integração com gateways bancários, automação de recebíveis e dashboards analíticos. Trabalho com o ciclo completo: do design da API ao componente Vue em produção.
+**Full Stack Developer** · PHP & Laravel · Vue 3 & TypeScript · SQL · Redis · Docker · Linux
 
 Pós-graduado em Engenharia de Software pela PUC Minas.
 
